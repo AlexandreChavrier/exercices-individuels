@@ -1,3 +1,5 @@
+// Fonction pour afficher l'alphabet en C#
+
 #include <unistd.h>
 
 void    ft_print_alphabet(void)
