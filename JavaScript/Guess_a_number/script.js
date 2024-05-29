@@ -1,3 +1,5 @@
+// Le but de cet algo est de faire un petit jeu en JS qui permet de deviner un nombre grâce à des prompt
+
 function demanderNombre() {
     const nombreADeviner = Number(prompt("Entrez un nombre : 0 < ? < 50"));
     if (nombreADeviner < 0 || nombreADeviner > 50) {

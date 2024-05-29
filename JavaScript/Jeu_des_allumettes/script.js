@@ -1,3 +1,5 @@
+// Cet algo représente le jeu des allumettes avec des prompts en JS. Au départ, il y a un tas de 50 allumettes, (ou tout autre objet : cailloux,
+// jetons, . . .). Chacun à son tour, les deux joueurs ôtent obligatoirement entre 1 et 6 allumettes. Celui qui ôte la dernière allumette gagne.
 
 function returnTableauNombreDeJoueurs() {
     let tableauJoueur = [];

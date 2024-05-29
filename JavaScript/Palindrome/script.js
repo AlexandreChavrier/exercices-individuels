@@ -1,3 +1,5 @@
+// Le but de cet algo est de détecter des dates palindromes en JS
+
 function isValidate(date) {
     const arr = date.split('/');
     let tab = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];

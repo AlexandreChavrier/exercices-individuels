@@ -1,3 +1,5 @@
+// Cet algo permet de dessiner dans la console un sapin d'une taille plus ou moins grande donnée en parammètre de la fonction
+
 function printSpaces(nbr) {
     let spaces = '';
     for (let i = 0; i < nbr; i++) {

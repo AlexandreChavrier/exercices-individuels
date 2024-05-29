@@ -1,3 +1,4 @@
+// Le but de cet algo vise à créer un encodeur et décodeur de morse
 
 const latinToMorse = {
 	'A':'.-',

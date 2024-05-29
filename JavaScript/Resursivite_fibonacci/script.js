@@ -1,3 +1,5 @@
+// Cet algo représente la suite de fibonacci en JS, en utilisant le principe de la récursivité
+
 function sum1(arr) {
     let j = 0;
     for (let i = 0; i < arr.length; i++)
