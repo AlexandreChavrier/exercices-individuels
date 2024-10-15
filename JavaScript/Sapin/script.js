@@ -87,5 +87,5 @@ function drawSapin(nbr) {
     }
 }
 
-console.log(drawSapin(50));
+console.log(drawSapin(12));
 
